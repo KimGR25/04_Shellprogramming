@@ -1,0 +1,3 @@
+ [  OK  ] /root/bin/passwd 
+ [ WARN ] /root/bin/hosts 
+ [  OK  ] /root/bin/group 
